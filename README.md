@@ -153,7 +153,7 @@ This project is licensed under the MIT license. Please see [LICENSE.md](LICENSE.
 
 ## Related projects
 
-- [php-lean](https://github.com/lean-packages/php-lean) — The `PHP` counterpart.
-- [py-lean](https://github.com/lean-packages/py-lean) — The `Python` equivalent.
-- [cargo-lean](https://github.com/lean-packages/cargo-lean) — The `Rust` equivalent.
-- [js-lean](https://github.com/lean-packages/js-lean) — The `JavaScript` equivalent.
+This project is part of the [lean-packages](https://github.com/lean-packages) ecosystem, a collection of tools for validating and
+optimizing software package distributions across programming languages.
+
+Explore the [lean-packages GitHub organization](https://github.com/lean-packages) to discover other tools in the ecosystem.
